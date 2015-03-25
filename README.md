@@ -38,4 +38,3 @@ Also, `document.querySelector("is-mobile").mobile` will return boolean `true`.
 ## License
 
 [MIT License](http://opensource.org/licenses/MIT)
->>>>>>> working version
