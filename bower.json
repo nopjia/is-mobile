@@ -1,0 +1,17 @@
+{
+  "name": "is-mobile",
+  "version": "0.0.0",
+  "description": "Custom Element to detect mobile",
+  "license": "BSD",
+  "main": "is-mobile.html",
+  "keywords": [
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.5.1"
+  }
+}
