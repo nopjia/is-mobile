@@ -1,8 +1,8 @@
 {
   "name": "is-mobile",
-  "version": "0.0.0",
-  "description": "Custom Element to detect mobile",
-  "license": "BSD",
+  "version": "0.1.0",
+  "description": "Custom Element to detect mobile browser",
+  "license": "MIT",
   "main": "is-mobile.html",
   "keywords": [
     "web-components"

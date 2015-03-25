@@ -15,5 +15,13 @@
   <!-- Using Custom Elements -->
   <is-mobile></is-mobile>
 
+<script type="text/javascript">
+  var isMobileElem = document.querySelector("is-mobile");
+  if (isMobileElem.mobile)
+    console.log("This is a mobile browser!");
+  else
+    console.log("This is not a mobile browser.");
+</script>
+
 </body>
 </html>
