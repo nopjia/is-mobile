@@ -1,15 +1,22 @@
 {
   "name": "is-mobile",
   "version": "0.1.0",
+  "homepage": "iamnop.com",
+  "authors": [
+    "Nop Jiarathanakul <nop@iamnop.com>"
+  ],
   "description": "Custom Element to detect mobile browser",
-  "license": "MIT",
   "main": "is-mobile.html",
   "keywords": [
     "web-components"
   ],
+  "license": "MIT",
   "ignore": [
     "**/.*",
-    "bower_components"
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "dependencies": {
     "webcomponentsjs": "^0.5.1"
